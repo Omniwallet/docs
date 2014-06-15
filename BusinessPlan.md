@@ -53,7 +53,7 @@ Mastercoin Foundation RBBs who work primarily on Omniwallet should probably migr
 
 1. Ron: [CVO](https://en.wikipedia.org/wiki/Chief_visionary_officer)
 2. Adam: CTO
-3. ???: CEO   (<----- we’re hiring! TODO link to a hiring Google Form)
+3. ???: CEO   (<----- [we’re hiring!](https://docs.google.com/forms/d/1Ko016DY-fK-_FvvE86IVYwuSPUUUOZtHxInH1i9LGqo/viewform))
 
 # Monetization Model
 
