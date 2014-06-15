@@ -58,9 +58,9 @@ Mastercoin Foundation RBBs who work primarily on Omniwallet should probably migr
 1. Promotion of crowdsales via a dedicated directory/vetted partner program 
 2. Charging for API calls
 3. Charging for premium features e.g issuing coins
-..1. The Master Protocol itself will not charge for issuing coins. However the Omniwallet platform can charge for an easy wrapper on that. The wrapper is and can remain open source.
-..2. The fee can be taken as a percentage of coins issued, and liquidated to MSC/BTC/USD as needed.
-..3. The exact fee structure and schedule is TBD.
+  1. The Master Protocol itself will not charge for issuing coins. However the Omniwallet platform can charge for an easy wrapper on that. The wrapper is and can remain open source.
+  2. The fee can be taken as a percentage of coins issued, and liquidated to MSC/BTC/USD as needed.
+  3. The exact fee structure and schedule is TBD.
 4. Rev-shares with affiliates such as CoinPowers, Swarm and CODA.
 5. TBD... - If we believe we can get a million users, monetization will follow naturally. We don’t have to have all the answers now.
 
@@ -78,18 +78,18 @@ TBD - link to David Johnston’s white paper on setting crowdsale properties.
 People who contribute to this section, please let us know who you are. This section will be deleted eventually after the issues are resolved or integrate in the document.
 
 1. OW.co would need sufficient resources, including people with all the right roles, skills & experience
-..1. Ron - We would recruit new people, I don’t see how this is an issue that needs resolving.
-..2. Marv - We need to have a sense of what resources we’ll need, and when, in order to know how much funding has to be raised
+  1. Ron - We would recruit new people, I don’t see how this is an issue that needs resolving.
+  2. Marv - We need to have a sense of what resources we’ll need, and when, in order to know how much funding has to be raised
 2. Rather than rewarding people for just holding coins, there should be benefits to users for using the coins. It’s the activity that generates value for all the participants. This can (and should?) apply to most/all coin types.
-..1. Ron - I don’t understand why.
-..2. Marv - incentives to use the product should increase the user (and developer) community
+  1. Ron - I don’t understand why.
+  2. Marv - incentives to use the product should increase the user (and developer) community
 3. Omniwallet has a long way to go before it can attract a million users
-..1. Ron - Correct. I want to attract the right capital and team to build that.
+  1. Ron - Correct. I want to attract the right capital and team to build that.
 4. First mover advantage may be critical
-..1. Ron - So let’s move quickly and execute.
+  1. Ron - So let’s move quickly and execute.
 5. The "-ilities" need to be addressed, including functionality, usability, scalability, availability, reliability, maintainability, supportability
-..1. Ron - This is a technical discussion best left to another document.
-..2. Marv - understanding these contributes to the resource requirements roadmap
+  1. Ron - This is a technical discussion best left to another document.
+  2. Marv - understanding these contributes to the resource requirements roadmap
 
 # FAQ
 
@@ -129,19 +129,19 @@ We do not believe that the team should focus on monetization right now, but rath
 
 1. Finalize legal aspects
 2. Find a CEO (we are hiring! TODO link to a hiring Google Form). Questions to ask candidates:
-..1. Full name
-..2. Email
-..3. Skype
-..4. Phone Number
-..5. Linkedin
-..6. Link to standalone CV (optional)
-..7. Referrer (who can recommend you)
-..8. Years of experience in Bitcoin
-..9. Summary of relevant previous experience
-..10. When can you start?
-..11. Expected salary
-..12. Vision for Omni and/or Master Protocol
-..13. Country of residence
+  1. Full name
+  2. Email
+  3. Skype
+  4. Phone Number
+  5. Linkedin
+  6. Link to standalone CV (optional)
+  7. Referrer (who can recommend you)
+  8. Years of experience in Bitcoin
+  9. Summary of relevant previous experience
+  10. When can you start?
+  11. Expected salary
+  12. Vision for Omni and/or Master Protocol
+  13. Country of residence
 3. Publish this document (move to github?)
 4. Expand on business potential
 5. Competitor analysis
