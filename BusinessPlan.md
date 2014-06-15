@@ -1,13 +1,5 @@
-<table>
-  <tr>
-    <td>This document is collaboratively edited.
-If you want to improve it, comment (right click-->comment), or directly edit the doc.
-Feel free to share the document with whoever you want.</td>
-  </tr>
-</table>
-
-
-This document is being moved to github. Pull requests welcome.
+This document is collaboratively edited.
+If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/issues/new) or [submit a pull request](https://docs.google.com/document/d/14YCjDAjVjH25VDdAy0mKa0h4WCpgqCkqWWpsYarWTBM/edit#).
 
 This document is a business plan for creating an "Omniwallet for-profit company".
 
