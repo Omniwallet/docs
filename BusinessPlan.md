@@ -73,24 +73,6 @@ TBD - link to David Johnston’s white paper on setting crowdsale properties.
 3. Should the company give ALL of its revenue to holders of OmniCoins? Or should it keep some revenue for itself? Is the company just a ‘holder’ but has no value, with all the value residing on coins?
 4. Does the company need a buyback model - the ability to buy the coins at a certain (high) value, in case e.g. the company is sold off to Blockchain.info in some future, and Blockchain.info do not want to use the OmniCoins model?
 
-# Issues to be Resolved
-
-People who contribute to this section, please let us know who you are. This section will be deleted eventually after the issues are resolved or integrate in the document.
-
-1. OW.co would need sufficient resources, including people with all the right roles, skills & experience
-  1. Ron - We would recruit new people, I don’t see how this is an issue that needs resolving.
-  2. Marv - We need to have a sense of what resources we’ll need, and when, in order to know how much funding has to be raised
-2. Rather than rewarding people for just holding coins, there should be benefits to users for using the coins. It’s the activity that generates value for all the participants. This can (and should?) apply to most/all coin types.
-  1. Ron - I don’t understand why.
-  2. Marv - incentives to use the product should increase the user (and developer) community
-3. Omniwallet has a long way to go before it can attract a million users
-  1. Ron - Correct. I want to attract the right capital and team to build that.
-4. First mover advantage may be critical
-  1. Ron - So let’s move quickly and execute.
-5. The "-ilities" need to be addressed, including functionality, usability, scalability, availability, reliability, maintainability, supportability
-  1. Ron - This is a technical discussion best left to another document.
-  2. Marv - understanding these contributes to the resource requirements roadmap
-
 # FAQ
 
 ## What are the benefits of branching Omniwallet off, rather than continuing as a unit of the Mastercoin Foundation?
