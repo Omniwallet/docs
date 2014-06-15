@@ -1,4 +1,4 @@
-This document is collaboratively edited.
+This document is collaboratively edited (formally on [Google Drive](https://docs.google.com/document/d/1Plo3UyiJlPPkCmq9lc6j0y1K89zssBVWmtIrPom3r0Y/edit)).
 If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/issues/new) or [submit a pull request](https://docs.google.com/document/d/14YCjDAjVjH25VDdAy0mKa0h4WCpgqCkqWWpsYarWTBM/edit#).
 
 This document is a business plan for creating an "Omniwallet for-profit company".
