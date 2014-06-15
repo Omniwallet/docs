@@ -41,6 +41,10 @@ A company should be formed in some crypto-friendly regulatory regime (Isle of Ma
 1. Create a coin dubbed OmniCoin.
 2. Promise to always give some percent (100%?) of all dividends to holders of this coin. This promise can be anchored by the controlling structure of the company in an immutable way.
 3. Allocate a percentage of OmniCoins for an employee retention plan. People working on Omniwallet will receive OmniCoins per a predefined vesting and cliff structure.
+4. Define a way to include employees holding OmniCoin (shares) the ability to vote and propose issues to the board. Maybe via an elected employee representative. 
+5. Define a way to include users the ability to vote. 
+
+Note: REI is a great example of a uniquely owned company. "REI, is a privately held American retail corporation organized as a consumers' cooperative" ... "There is a $20 lifetime membership fee. REI normally pays an annual dividend check to its members equal to 10% of what they spent at REI on regular-priced merchandise in the prior year.[10] The refund, which expires on December 31 two years from the date of issue, can be used as credit for further purchases or taken as cash or check between July 1 and December 31 of the year that the dividend is valid."
 
 The company will then distribute some percentage of all outstanding OmniCoins to all holders of MSC, thus compensating MSC holders for backing the Mastercoin Foundation and supporting the development of Omniwallet thus far. Then, the company can sell OmniCoins and raise money to fund future development.
 
