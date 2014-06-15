@@ -2,9 +2,7 @@ This document is collaboratively edited.
 If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/issues/new) or [submit a pull request](https://docs.google.com/document/d/14YCjDAjVjH25VDdAy0mKa0h4WCpgqCkqWWpsYarWTBM/edit#).
 
 This document is a business plan for creating an "Omniwallet for-profit company".
-
-[[TOC]]
-
+    
 # Core Mission Statement / 20 second pitch to Mastercoiners
 
 [Omniwallet](https://github.com/mastercoin-MSC/omniwallet) is be the best, free, open source, secure, multi-currency wallet there is. It should grow to support all major digital currencies, and allow people to fork it and add their own currencies via a module system.
