@@ -34,9 +34,7 @@ See [The Definitive Guide to Crowdsales Legality](https://docs.google.com/docume
 A company should be formed in some crypto-friendly regulatory regime (Isle of Man?). The company will pass these board resolutions:
 
 1. Create a coin dubbed OmniCoin.
-
 2. Promise to always give some percent (100%?) of all dividends to holders of this coin. This promise can be anchored by the controlling structure of the company in an immutable way.
-
 3. Allocate a percentage of OmniCoins for an employee retention plan. People working on Omniwallet will receive OmniCoins per a predefined vesting and cliff structure.
 
 The company will then distribute some percentage of all outstanding OmniCoins to all holders of MSC, thus compensating MSC holders for backing the Mastercoin Foundation and supporting the development of Omniwallet thus far. Then, the company can sell OmniCoins and raise money to fund future development.
@@ -44,9 +42,7 @@ The company will then distribute some percentage of all outstanding OmniCoins to
 # Quotes
 
 1. *Yoni Assia, eToro* - "AWESOME IDEA! I indeed think this would be great both for colored coins and for mastercoin, and could become an industry leader in multi asset wallets."
-
 2. *Jeremy Kandah, DApps Fund* - "In the future, there will be an abundant amount of block chain property (currencies, equities, tokens, etc.).  Creating the best place to use that property is a game changer."
-
 3. *David Johnston, DAps Fund* - "Omni Wallet gaining a dedicated team to build out its functions is an awesome sign of it maturing as a platform for all kinds of crypto currencies to build on top of it."
 
 # Team
@@ -54,27 +50,18 @@ The company will then distribute some percentage of all outstanding OmniCoins to
 Mastercoin Foundation RBBs who work primarily on Omniwallet should probably migrate (full-time or part-time) to be formally employed by the company, using the funds raised by selling Omniwallet.
 
 1. Ron: [CVO](https://en.wikipedia.org/wiki/Chief_visionary_officer)
-
 2. Adam: CTO
-
 3. ???: CEO   (<----- we’re hiring! TODO link to a hiring Google Form)
 
 # Monetization Model
 
 1. Promotion of crowdsales via a dedicated directory/vetted partner program 
-
 2. Charging for API calls
-
 3. Charging for premium features e.g issuing coins
-
-    1. The Master Protocol itself will not charge for issuing coins. However the Omniwallet platform can charge for an easy wrapper on that. The wrapper is and can remain open source.
-
-    2. The fee can be taken as a percentage of coins issued, and liquidated to MSC/BTC/USD as needed.
-
-    3. The exact fee structure and schedule is TBD.
-
+..1. The Master Protocol itself will not charge for issuing coins. However the Omniwallet platform can charge for an easy wrapper on that. The wrapper is and can remain open source.
+..2. The fee can be taken as a percentage of coins issued, and liquidated to MSC/BTC/USD as needed.
+..3. The exact fee structure and schedule is TBD.
 4. Rev-shares with affiliates such as CoinPowers, Swarm and CODA.
-
 5. TBD... - If we believe we can get a million users, monetization will follow naturally. We don’t have to have all the answers now.
 
 # Crowdsale Model
@@ -82,11 +69,8 @@ Mastercoin Foundation RBBs who work primarily on Omniwallet should probably migr
 TBD - link to David Johnston’s white paper on setting crowdsale properties.
 
 1. X% goes for existing MSC holders, Y% to new investors, Z% as a Dev Pool with a pre-defined vesting/cliff schedule.
-
 2. Need to decide on the exact crowdsale model (distribution of the Y%). A public sale for 1 month with some cap C?
-
 3. Should the company give ALL of its revenue to holders of OmniCoins? Or should it keep some revenue for itself? Is the company just a ‘holder’ but has no value, with all the value residing on coins?
-
 4. Does the company need a buyback model - the ability to buy the coins at a certain (high) value, in case e.g. the company is sold off to Blockchain.info in some future, and Blockchain.info do not want to use the OmniCoins model?
 
 # Issues to be Resolved
@@ -94,41 +78,26 @@ TBD - link to David Johnston’s white paper on setting crowdsale properties.
 People who contribute to this section, please let us know who you are. This section will be deleted eventually after the issues are resolved or integrate in the document.
 
 1. OW.co would need sufficient resources, including people with all the right roles, skills & experience
-
-    1. Ron - We would recruit new people, I don’t see how this is an issue that needs resolving.
-
-    2. Marv - We need to have a sense of what resources we’ll need, and when, in order to know how much funding has to be raised
-
+..1. Ron - We would recruit new people, I don’t see how this is an issue that needs resolving.
+..2. Marv - We need to have a sense of what resources we’ll need, and when, in order to know how much funding has to be raised
 2. Rather than rewarding people for just holding coins, there should be benefits to users for using the coins. It’s the activity that generates value for all the participants. This can (and should?) apply to most/all coin types.
-
-    3. Ron - I don’t understand why.
-
-    4. Marv - incentives to use the product should increase the user (and developer) community
-
+..1. Ron - I don’t understand why.
+..2. Marv - incentives to use the product should increase the user (and developer) community
 3. Omniwallet has a long way to go before it can attract a million users
-
-    5. Ron - Correct. I want to attract the right capital and team to build that.
-
+..1. Ron - Correct. I want to attract the right capital and team to build that.
 4. First mover advantage may be critical
-
-    6. Ron - So let’s move quickly and execute.
-
+..1. Ron - So let’s move quickly and execute.
 5. The "-ilities" need to be addressed, including functionality, usability, scalability, availability, reliability, maintainability, supportability
-
-    7. Ron - This is a technical discussion best left to another document.
-
-    8. Marv - understanding these contributes to the resource requirements roadmap
+..1. Ron - This is a technical discussion best left to another document.
+..2. Marv - understanding these contributes to the resource requirements roadmap
 
 # FAQ
 
 ## What are the benefits of branching Omniwallet off, rather than continuing as a unit of the Mastercoin Foundation?
 
 1. Correctly incentivizes Omniwallet developers to do "whatever is best for Omni", regardless of the benefit of Mastercoin. E.g. if an opportunity arises to integrate other Appcoin protocols or alt-chains into Omni, the Omni developers should only do whatever is best for Omniwallet. We don’t want a conflict of interests here affecting their decisions.
-
 2. Keeps the incentive of the MSC holders. Since OmniCoins are automatically awarded to each holder of MSC in proportion to their MSC holdings, if the company is wildly successful, holders of MSC share in that revenue stream.
-
 3. Attracts additional capital - new investment money will pour in to buy OmniCoins by people who believe in its monetization model.
-
 4. Significantly lowers the capital expense of the Mastercoin Foundation, and thus increases its runway. The Foundation can still compensate Omni developers as needed, but will focus its compensation on contributions to the core protocol, leaving the bulk of the compensation to be derived from the company’s revenue stream.
 
 ## What are the risks and unintended consequences of branching Omniwallet off? (Marv)
@@ -136,9 +105,7 @@ People who contribute to this section, please let us know who you are. This sect
 ## What is the need for a separate OmniCoin? Why not just tie the company to Mastercoin?
 
 1. As stated above, this ensures a correct incentivisation of Omni developers and investors that is separate from the incentivization of MSC holders. By allowing the value of OmniwalletCoins and Mastercoins to diverge, people who invest time/attention/resources in one project aren’t directly affected by the other. This is an important tool for the market to correctly funnel resources to the specific Omniwallet project.
-
 2. This is a means for an additional funding round. Issuing OmniwalletCoins will attract further capital that is interested in the concept of a multi-currency wallet but not in Mastercoin, and will be used to fund development.
-
 3. Developers and other team members moving (fully or partly) from the Mastercoin Foundation to Omniwallet.co will help reduce the burn rate of the Foundation and let it concentrate on its core mission - building the Master Protocol, and its refernce implementation [Master Core](https://github.com/mastercoin-MSC/mastercore).
 
 ## Does this mean the roadmap for Omniwallet is changing? 
@@ -150,11 +117,8 @@ We do not believe that the team should focus on monetization right now, but rath
 # **Competitor Analysis**
 
 1. [Counterwallet](http://counterwallet.org/)
-
 2. [holytransaction](https://holytransaction.com/) (Coinbase-style wallet, they host customer funds)
-
 3. [Coinmi](http://coinomi.com/) (just a landing page)
-
 4. [mucowa](http://mucowa.com/) - Desktop wallet
 
 # **Links**:
@@ -164,44 +128,24 @@ We do not believe that the team should focus on monetization right now, but rath
 # TODO
 
 1. Finalize legal aspects
-
 2. Find a CEO (we are hiring! TODO link to a hiring Google Form). Questions to ask candidates:
-
-    1. Full name
-
-    2. Email
-
-    3. Skype
-
-    4. Phone Number
-
-    5. Linkedin
-
-    6. Link to standalone CV (optional)
-
-    7. Referrer (who can recommend you)
-
-    8. Years of experience in Bitcoin
-
-    9. Summary of relevant previous experience
-
-    10. When can you start?
-
-    11. Expected salary
-
-    12. Vision for Omni and/or Master Protocol
-
-    13. Country of residence
-
+..1. Full name
+..2. Email
+..3. Skype
+..4. Phone Number
+..5. Linkedin
+..6. Link to standalone CV (optional)
+..7. Referrer (who can recommend you)
+..8. Years of experience in Bitcoin
+..9. Summary of relevant previous experience
+..10. When can you start?
+..11. Expected salary
+..12. Vision for Omni and/or Master Protocol
+..13. Country of residence
 3. Publish this document (move to github?)
-
 4. Expand on business potential
-
 5. Competitor analysis
-
 6. Decide on current valuation
-
 7. Get quotes from leaders in the space as to the potential
-
 8. Decide on deadline
 
