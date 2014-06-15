@@ -7,7 +7,7 @@ This document is a business plan for creating an "Omniwallet for-profit company"
 
 AKA 20 second pitch to Mastercoiners
 
-[Omniwallet](https://github.com/mastercoin-MSC/omniwallet) is be the best, free, open source, secure, multi-currency wallet there is. It should grow to support all major digital currencies, and allow people to fork it and add their own currencies via a module system.
+[Omniwallet](https://github.com/mastercoin-MSC/omniwallet) is the best, free, open source, secure, multi-currency wallet there is. It should grow to support all major digital currencies, and allow people to fork it and add their own currencies via a module system.
 
 This is valuable because it answers a real pain. The site will attract millions of users and there are ways to monetize on that (see below). 
 
