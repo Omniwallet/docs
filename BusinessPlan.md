@@ -2,6 +2,9 @@ This document is collaboratively edited (formally on [Google Drive](https://docs
 If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/issues/new) or [submit a pull request](https://docs.google.com/document/d/14YCjDAjVjH25VDdAy0mKa0h4WCpgqCkqWWpsYarWTBM/edit#).
 
 This document is a business plan for creating an "Omniwallet for-profit company".
+It is something that we are considering, but havne't decided on yet.
+
+Feedback is welcome. FYI, the Omniwallet.co initiative is [recruiting a CEO](https://docs.google.com/forms/d/1Ko016DY-fK-_FvvE86IVYwuSPUUUOZtHxInH1i9LGqo/viewform).
     
 # Core Mission Statement
 
