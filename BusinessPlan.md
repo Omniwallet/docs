@@ -111,28 +111,3 @@ We do not believe that the team should focus on monetization right now, but rath
 2. Skype groups:
   1. Omniwallet general chat - skype:?chat&blob=fH3knP4F8CAatLYmlBiYuIP7t3VGh0M3wbYL_q2Vr9WyJ-9dwYvkfUp-ElOB8w
   1. Private Omni.co chat - skype:?chat&blob=oKvHzUi1ewwFBKaMQ1HUL7282RfcZmA8oZbTg4X-i5C0-wYGr6RmWB6lx96QukqI9IAMFp_ghK82rBhLs7EwMtg5uASUiaAO46CS4vggK5zKSIOjNOXGH44AqCZKKKv9O94dLPlCLrndBmj6E8YpxoVrzA4zhJuojgp89i_LmYTNcBTv9ZvdrPtrN-YBMT31z9s9IjY
-
-# TODO
-
-1. Finalize legal aspects
-2. Find a CEO (we are hiring! TODO link to a hiring Google Form). Questions to ask candidates:
-  1. Full name
-  2. Email
-  3. Skype
-  4. Phone Number
-  5. Linkedin
-  6. Link to standalone CV (optional)
-  7. Referrer (who can recommend you)
-  8. Years of experience in Bitcoin
-  9. Summary of relevant previous experience
-  10. When can you start?
-  11. Expected salary
-  12. Vision for Omni and/or Master Protocol
-  13. Country of residence
-3. Publish this document (move to github?)
-4. Expand on business potential
-5. Competitor analysis
-6. Decide on current valuation
-7. Get quotes from leaders in the space as to the potential
-8. Decide on deadline
-
