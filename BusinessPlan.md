@@ -107,7 +107,10 @@ We do not believe that the team should focus on monetization right now, but rath
 
 # **Links**:
 
-1. Omni.co skype group - skype:?chat&blob=oKvHzUi1ewwFBKaMQ1HUL7282RfcZmA8oZbTg4X-i5C0-wYGr6RmWB6lx96QukqI9IAMFp_ghK82rBhLs7EwMtg5uASUiaAO46CS4vggK5zKSIOjNOXGH44AqCZKKKv9O94dLPlCLrndBmj6E8YpxoVrzA4zhJuojgp89i_LmYTNcBTv9ZvdrPtrN-YBMT31z9s9IjY
+1. [Omniwallet on Facebook](https://www.facebook.com/groups/omniwallet/)
+2. Skype groups:
+  1. Omniwallet general chat - skype:?chat&blob=fH3knP4F8CAatLYmlBiYuIP7t3VGh0M3wbYL_q2Vr9WyJ-9dwYvkfUp-ElOB8w
+  1. Private Omni.co chat - skype:?chat&blob=oKvHzUi1ewwFBKaMQ1HUL7282RfcZmA8oZbTg4X-i5C0-wYGr6RmWB6lx96QukqI9IAMFp_ghK82rBhLs7EwMtg5uASUiaAO46CS4vggK5zKSIOjNOXGH44AqCZKKKv9O94dLPlCLrndBmj6E8YpxoVrzA4zhJuojgp89i_LmYTNcBTv9ZvdrPtrN-YBMT31z9s9IjY
 
 # TODO
 
