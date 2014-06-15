@@ -82,7 +82,9 @@ TBD - link to David Johnston’s white paper on setting crowdsale properties.
 3. Attracts additional capital - new investment money will pour in to buy OmniCoins by people who believe in its monetization model.
 4. Significantly lowers the capital expense of the Mastercoin Foundation, and thus increases its runway. The Foundation can still compensate Omni developers as needed, but will focus its compensation on contributions to the core protocol, leaving the bulk of the compensation to be derived from the company’s revenue stream.
 
-## What are the risks and unintended consequences of branching Omniwallet off? (Marv)
+## What are the risks and unintended consequences of branching Omniwallet off?
+
+TBD - https://github.com/Omniwallet/docs/issues/6
 
 ## What is the need for a separate OmniCoin? Why not just tie the company to Mastercoin?
 
