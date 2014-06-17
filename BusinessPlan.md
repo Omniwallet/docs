@@ -2,35 +2,31 @@ This document is collaboratively edited (formally on [Google Drive](https://docs
 If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/issues/new) or [submit a pull request](https://docs.google.com/document/d/14YCjDAjVjH25VDdAy0mKa0h4WCpgqCkqWWpsYarWTBM/edit#).
 
 This document is a business plan for creating an "Omniwallet for-profit company".
-It is something that we are considering, but havne't decided on yet.
+This implementaion is under consideration, but hasn't been endorsed byt the Master Protocol board.
 
-Feedback is welcome. FYI, the Omniwallet.co initiative is [recruiting a CEO](https://docs.google.com/forms/d/1Ko016DY-fK-_FvvE86IVYwuSPUUUOZtHxInH1i9LGqo/viewform).
+Feedback is welcome. 
+
+FYI, the Omniwallet.co initiative is [recruiting a CEO](https://docs.google.com/forms/d/1Ko016DY-fK-_FvvE86IVYwuSPUUUOZtHxInH1i9LGqo/viewform).
     
 # Core Mission Statement
 
 AKA 20 second pitch to Mastercoiners
 
-[Omniwallet](https://github.com/mastercoin-MSC/omniwallet) is the best, free, open source, secure, multi-currency wallet there is. It should grow to support all major digital currencies, and allow people to fork it and add their own currencies via a module system.
-
-This is valuable because it answers a real pain. The site will attract millions of users and there are ways to monetize on that (see below). 
+[Omniwallet](https://github.com/mastercoin-MSC/omniwallet) is the best, free, open source, secure, multi-currency wallet there is in the market. It can maintian the widely endorsed values of transparency, opensource and distributedness and still be a profit seeking initiative. All major digital currencies can easily be incorporated by offering a forkable module new currency issuers can modify and integrate.
 
 # Two minute pitch
 
 The Omniwallet project was started by the Mastercoin Foundation as a secure, open source, multi-currency wallet. It is perhaps the only web wallet that supports multiple digital currencies other than [Counterwallet](https://counterwallet.co/).
 
-Omniwallet is getting better and better every day. With hundreds of crowdsales that will happen on the Master Protocol in the next six months, we predict that the traction to omniwallet.org will increase immensely. We would like to make sure that the Omniwallet project has everything it needs in order to complete its mission in the best possible way.
+Omniwallet is getting better and better every day. With hundreds of crowdsales that will be selling "access to service tokens" issued on Master Protocol in the next six months, we predict that the traction to omniwallet.org will increase immensely. We would like to make sure that the Omniwallet project has everything it needs in order to support the token issuers and crowdsale participants in the best possible way.
 
-Now, it can continue as part of the Mastercoin Foundation - that's completely ok for the time being. But why settle on "ok"?
+Omniwallet can easily expand to be a wallet for all currencies based on the Master Protocol but ALSO a home to all alt-currencies, including such currencies as Counterparty, XRP, Colored Coins, Ethers, Litecoins, Peercoins, Dogecoins...
 
-We think that the Omniwallet project can be so much more than that.
+Currently, each of the currencies available in the market have their own wallets and users lack a "single wallet to rule them all". This is a real pain point for the all the market participants, and expected to grow with the viral adoption that [Appcoins](https://github.com/DavidJohnstonCEO/TheValueofAppCoins) are demonstrating.
 
-We believe it can be not just a home for all currencies based on the Master Protocol ... but a home to all alt-currencies as well, including such currencies as Counterparty, XRP, Colored Coins, Ethers, Litecoins, Peercoins, Dogecoins...
+The original vision behind Omniwallet is to be the "wallet for all". It was conceived to be completely open where if members of the community identified a currency not supported, a pull request would be the easy-fix. If there was a delay or denial on the pull request (e.g. currency suggested has too small a market cap), then anyone would be free to fork the wallet and host their own version.
 
-Each of these currencies currently have their own wallets. Users have no "single wallet to rule them all". This is a real pain point for the market, and once a good solution emerges, users will flock to it. Omniwallet is well positioned to capitalize on the growing, viral [Appcoins](https://github.com/DavidJohnstonCEO/TheValueofAppCoins) trend.
-
-That was the original vision behind Omniwallet - to be the "wallet for all". Completely open ... if you like a currency that we don't support, submit a pull request. If we don't accept your pull request (e.g. your currency is too small to interest us), then please go ahead and fork us and host your own version!
-
-We believe that being a part of the Foundation inherently limits the Omniwallet project, and for no good reason. The system we proposed in the this document will enable the Omniwallet to truly do "what's best for Omniwallet".
+Here is a proposol to give autonomy to Omniwallet, have it be an independent initiative for it to truly do "what's best for Omniwallet".
 
 # Company Structure and Legal Aspects
 
