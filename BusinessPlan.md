@@ -2,7 +2,7 @@ This document is collaboratively edited (formally on [Google Drive](https://docs
 If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/issues/new) or [submit a pull request](https://docs.google.com/document/d/14YCjDAjVjH25VDdAy0mKa0h4WCpgqCkqWWpsYarWTBM/edit#).
 
 This document is a business plan for creating an "Omniwallet for-profit company".
-This implementaion is under consideration, but hasn't been endorsed byt the Master Protocol board.
+This implementaion is under consideration, but hasn't been endorsed by the Mastercoin Foundation board.
 
 Feedback is welcome. 
 
