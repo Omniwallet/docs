@@ -105,7 +105,8 @@ We do not believe that the team should focus on monetization right now, but rath
 2. [holytransaction](https://holytransaction.com/) (Coinbase-style wallet, they host customer funds, [low activity so far](https://bitcointalk.org/index.php?topic=472248.0))
 3. [Coinmi](http://coinomi.com/) (just a landing page)
 4. [mucowa](http://mucowa.com/) - Desktop wallet
-
+5. [Hive Wallet](https://www.hivewallet.com/)
+6. 
 # **Links**:
 
 1. [Omniwallet on Facebook](https://www.facebook.com/groups/omniwallet/)
