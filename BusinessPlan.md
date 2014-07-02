@@ -95,18 +95,21 @@ TBD - https://github.com/Omniwallet/docs/issues/6
 
 ## Does this mean the roadmap for Omniwallet is changing? 
 
-The Omniwallet team will have complete autonomy to decide on its focus, priorities and roadmap. We do not propose we change anything in the current short-term roadmap. A lot of Omniwallet stakeholders are Mastercoin stakeholders, and we certainly do not want to do ANYTHING that can interfere with that.
+The Omniwallet team will have complete autonomy to decide on its focus, priorities and roadmap. We do not propose we change anything in the current short-term roadmap. A lot of 'Omniwallet stakeholders' are Mastercoin stakeholders, and we certainly do not want to do ANYTHING that can interfere with that.
 
 We do not believe that the team should focus on monetization right now, but rather on product and growth. Monetization will come later.
 
-# **Competitor Analysis**
+We do need to open up the long term roadmap for Omniwallet to fit with business viablity.
+Perhaps the most important issue is to decide [which is the more lucratice business model, a Coinbase model, or a Blockchain.info model](https://github.com/Omniwallet/docs/issues/19).
+
+# **Competitor and Market Analysis**
 
 1. [Counterwallet](http://counterwallet.org/)
 2. [holytransaction](https://holytransaction.com/) (Coinbase-style wallet, they host customer funds, [low activity so far](https://bitcointalk.org/index.php?topic=472248.0))
 3. [Coinmi](http://coinomi.com/) (just a landing page)
 4. [mucowa](http://mucowa.com/) - Desktop wallet
 5. [Hive Wallet](https://www.hivewallet.com/)
-6. 
+
 # **Links**:
 
 1. [Omniwallet on Facebook](https://www.facebook.com/groups/omniwallet/)
