@@ -24,7 +24,7 @@ Omniwallet can easily expand to be a wallet for all currencies based on the Mast
 
 Currently, each of the currencies available in the market have their own wallets and users lack a "single wallet to rule them all". This is a real pain point for the all the market participants, and expected to grow with the viral adoption that [Appcoins](https://github.com/DavidJohnstonCEO/TheValueofAppCoins) are demonstrating.
 
-The original vision behind Omniwallet is to be the "wallet for all". It was conceived to be completely open where if members of the community identified a currency not supported, a pull request would be the easy-fix. If there was a delay or denial on the pull request (e.g. currency suggested has too small a market cap), then anyone would be free to fork the wallet and host their own version.
+The original vision behind Omniwallet is to be the "wallet for all". It was conceived to be completely open where if members of the community identified a currency not supported, a pull request would be the easy-fix. If there was a delay or denial on the pull request (e.g. currency suggested has too msmall a market cap), then anyone would be free to fork the wallet and host their own version.
 
 Here is a proposol to give autonomy to Omniwallet, have it be an independent initiative for it to truly do "what's best for Omniwallet".
 
@@ -104,11 +104,20 @@ Perhaps the most important issue is to decide [which is the more lucratice busin
 
 # **Competitor and Market Analysis**
 
+Here are a few competitors and players in the space:
+
 1. [Counterwallet](http://counterwallet.org/)
 2. [holytransaction](https://holytransaction.com/) (Coinbase-style wallet, they host customer funds, [low activity so far](https://bitcointalk.org/index.php?topic=472248.0))
 3. [Coinmi](http://coinomi.com/) (just a landing page)
 4. [mucowa](http://mucowa.com/) - Desktop wallet
 5. [Hive Wallet](https://www.hivewallet.com/)
+
+The market isn’t too crowded right now - no company has established itself in this space, and only few are competing. 
+Omniwallet is the only wallet that supports the Mastercoin MSC token, which we believe will come out as a leader in the Bitcoin 2.0 space, driving adoption to Omniwallet. The focus on Mastrecoin is important for the near future in order to attract Master Protocol users and drive adoption. Concurrently, integration with other blockchains and protocols is already being explored.
+
+A strong advantage is that the architecture of Omniwallet was built from the start for supporting multiple currencies.
+
+Another key factor is the business network and incentives surrounding Omniwallet and its team. There is a large community using and investing in MSC and MSC-derived currencies, and the company can leverage this community for various purposes.
 
 # **Links**:
 
