@@ -113,9 +113,9 @@ Here are a few competitors and players in the space:
 5. [Hive Wallet](https://www.hivewallet.com/)
 
 The market isn’t too crowded right now - no company has established itself in this space, and only few are competing. 
-Omniwallet is the only wallet that supports the Mastercoin MSC token, which we believe will come out as a leader in the Bitcoin 2.0 space, driving adoption to Omniwallet. The focus on Mastrecoin is important for the near future in order to attract Master Protocol users and drive adoption. Concurrently, integration with other blockchains and protocols is already being explored.
+Omniwallet is the only wallet that supports the Mastercoin MSC token, which we believe will come out as a leader in the Bitcoin 2.0 space, driving adoption to Omniwallet. The focus on Mastrecoin is important for the near future in order to attract Master Protocol users and drive adoption. Concurrently, integration with other blockchains and protocols is already being explored and is critical to the success of Omniwallet.
 
-A strong advantage is that the architecture of Omniwallet was built from the start for supporting multiple currencies.
+A strong core advantage to Omniwallt is that the architecture of Omniwallet was built from the start for supporting multiple currencies.
 
 Another key factor is the business network and incentives surrounding Omniwallet and its team. There is a large community using and investing in MSC and MSC-derived currencies, and the company can leverage this community for various purposes.
 
