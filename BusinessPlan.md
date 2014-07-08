@@ -30,15 +30,9 @@ Here is a proposol to give autonomy to Omniwallet, have it be an independent ini
 
 # Company Structure and Legal Aspects
 
-See [The Definitive Guide to Crowdsales Legality](https://docs.google.com/document/d/1MawzhmDfKGCPnXva_C3QcK7KA0llxmrnEBE4ZTtlesU/edit#)
+See [The Definitive Guide to Crowdsales Legality](https://docs.google.com/document/d/1MawzhmDfKGCPnXva_C3QcK7KA0llxmrnEBE4ZTtlesU/edit#). There are several options on the table here, including but not limited to a Crowdsale of Omnicoins. One example is pre-selling Omnicoins which can then be used for premium features or for paying for adspace or API Calls.
 
-A company should be formed in some crypto-friendly regulatory regime (Isle of Man?). The company will pass these board resolutions:
-
-1. Create a coin dubbed OmniCoin.
-2. Promise to always give some percent (100%?) of all dividends to holders of this coin. This promise can be anchored by the controlling structure of the company in an immutable way.
-3. Allocate a percentage of OmniCoins for an employee retention plan. People working on Omniwallet will receive OmniCoins per a predefined vesting and cliff structure.
-
-The company will then distribute some percentage of all outstanding OmniCoins to all holders of MSC, thus compensating MSC holders for backing the Mastercoin Foundation and supporting the development of Omniwallet thus far. Then, the company can sell OmniCoins and raise money to fund future development.
+Exact details here are TBD.
 
 # Quotes
 
