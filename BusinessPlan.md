@@ -4,7 +4,7 @@ If you want to improve it, [open an issue](https://github.com/Omniwallet/docs/is
 This document is a business plan for creating an "Omniwallet for-profit company".
 This implementaion is under consideration, but hasn't been endorsed by the Mastercoin Foundation board.
 
-Feedback is welcome. 
+Feedback is always welcome. 
 
 FYI, the Omniwallet.co initiative is [recruiting a CEO](https://docs.google.com/forms/d/1Ko016DY-fK-_FvvE86IVYwuSPUUUOZtHxInH1i9LGqo/viewform).
     
